@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Change commit
+          test frontend
         </a>
       </header>
     </div>
